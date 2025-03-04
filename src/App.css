@@ -1,0 +1,23 @@
+.main-page {
+  display: flex;
+  justify-content: center;
+  background-image: linear-gradient(
+    to right bottom,
+    #8b4cfe,
+    #a546ff,
+    #be3eff,
+    #d633ff,
+    #ed21ff
+  );
+  width: 100vw;
+  height: 100vh;
+}
+.main-text {
+  margin-top: 200px;
+  font-size: 80px;
+  font-family: Optima, Segoe, Segoe UI, Candara, Calibri, Arial, sans-serif;
+  font-weight: 700;
+  text-align: center;
+  color: white;
+  text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.6);
+}
